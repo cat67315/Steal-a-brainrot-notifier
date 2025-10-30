@@ -7,9 +7,7 @@ import os
 import pyttsx3
 import json5
 
-screen = 1  # Change this to the screen where roblox is (1, 2, etc.) If you only have one screen, leave it as 1. If unsure open the "Display Settings" in Windows then click Identify wich will show what monitor is what number.
-interval = 3  # seconds
-
+# Tesseract executable path
 pytesseract.pytesseract.tesseract_cmd = r"C:/Program Files/Tesseract-OCR/tesseract.exe"
 
 
@@ -32,7 +30,7 @@ with open("config.json5", "r", encoding="utf-8") as f:
     config = json5.load(f)
 
 screen = config["screen"]
-
+interval = config["interval"]
 
 
 with mss.mss() as sct:
