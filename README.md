@@ -1,3 +1,6 @@
+## Notice:
+You will haft to fill in the keywords or keywords.txt file yourself. I will update soon with a finished keywords.txt file but for now you will have to do it yourself.
+
 ## What it does
 Notifies you when a rare brainrot spawns in the Roblox game steal a brainrot
 
