@@ -1,2 +1,6 @@
 # Steal-a-brainrot-notifier
-Notifies you when a rare brain rot spawns in the Roblox game steal a brain rot
+## What it does
+Notifies you when a rare brainrot spawns in the Roblox game steal a brainrot
+
+##
+How to download: click code then click download ZIP
