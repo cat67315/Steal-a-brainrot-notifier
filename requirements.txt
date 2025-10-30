@@ -2,3 +2,4 @@ mss
 pillow
 pytesseract
 pyttsx3
+json5

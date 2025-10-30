@@ -1,0 +1,4 @@
+{
+    screen: 1, // Change this to the screen where roblox is (1, 2, etc.) If you only have one screen, leave it as 1. If unsure open the "Display Settings" in Windows then click Identify wich will show what monitor is what number.
+    interval: 3, // How often (in seconds) to check for brainrots Do not lower this unless you have a good pc. If its too laggy you may want to raise this to 6.
+}
