@@ -26,6 +26,7 @@ def speak(text: str) -> None:
 with open("keywords.txt", "r", encoding="utf-8") as f:
     keywords = [line.strip() for line in f if line.strip()]
 
+# Load config
 with open("config.json5", "r", encoding="utf-8") as f:
     config = json5.load(f)
 
